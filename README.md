@@ -1,4 +1,4 @@
-# Arturo Rebolledo Rosenstiehl
+# Arturo David Rebolledo Rosenstiehl
 - 👋 Hi, I’m @Arturo2R
 - 👀 I’m interested in Economics, software enginering, physics, design 
 - 🌱 I’m currently learning data visualization, web motion graphics with gsap and MicroEconomics
